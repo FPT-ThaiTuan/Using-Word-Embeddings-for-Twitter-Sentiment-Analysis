@@ -53,7 +53,7 @@
 
 ## **3. Conclusion**
 ### **3.1. Advantages and disadvantages of the method used**
-Word embeddings are powerful representations of words in a continuous vector space, capturing semantic relationships and improving NLP tasks' performance. They offer advantages such as semantic representation, dimensionality reduction, and transfer learning. However, they have limitations like fixed vocabulary, contextual ambiguity, and data bias. 
+- Word embeddings are powerful representations of words in a continuous vector space, capturing semantic relationships and improving NLP tasks' performance. They offer advantages such as semantic representation, dimensionality reduction, and transfer learning. However, they have limitations like fixed vocabulary, contextual ambiguity, and data bias. 
 ### **3.2. Find ways to improve the model in the future**
 - Further development in terms of application
 - Train the model with larger data
