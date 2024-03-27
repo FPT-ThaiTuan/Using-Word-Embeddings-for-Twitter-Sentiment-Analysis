@@ -9,7 +9,8 @@
 - The link to the dataset is below
 [DATASET](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis?select=twitter_training.csv)
 - Data chart
-![Blank 2 Grids Collage](https://github.com/FPT-ThaiTuan/Using-Word-Embeddings-for-Twitter-Sentiment-Analysis/assets/105273233/b629ef5e-19fb-460c-9c15-2fe29857fa48)
+![屏幕截图 2024-03-27 063613](https://github.com/FPT-ThaiTuan/Using-Word-Embeddings-for-Twitter-Sentiment-Analysis/assets/105273233/75ee6fec-e2bd-4a63-a0e4-6aa6c4a60829)
+![屏幕截图 2024-03-27 063550](https://github.com/FPT-ThaiTuan/Using-Word-Embeddings-for-Twitter-Sentiment-Analysis/assets/105273233/c30dda82-ac62-4c1c-95f4-96a7c6eea4db)
 ### **2.2. Data preprocessing**
 - Select inputs for model target and features
 - Delete emoticons, special characters, limit the number of words in a sentence
