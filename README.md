@@ -50,6 +50,8 @@
 **- Dimension: 64**
 
 ![屏幕截图 2024-03-27 065022](https://github.com/FPT-ThaiTuan/Using-Word-Embeddings-for-Twitter-Sentiment-Analysis/assets/105273233/73e1f19e-808d-47d0-a570-69aa53ff0841)
+**- You can try this link **
+[tensorflow](https://projector.tensorflow.org/)
 
 ## **3. Conclusion**
 ### **3.1. Advantages and disadvantages of the method used**
