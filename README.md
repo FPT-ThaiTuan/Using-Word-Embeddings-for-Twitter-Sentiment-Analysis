@@ -16,8 +16,11 @@
 
 ### **2.2. Data preprocessing**
 **- Select inputs for model target and features**
+
 **- Delete emoticons, special characters, limit the number of words in a sentence**
+
 **- Standardize train data, validation data**
+
 **- Converted our label to a one-time encoded value for the label**
 ### **2.3. Build the model**
 **- Model architecture**
