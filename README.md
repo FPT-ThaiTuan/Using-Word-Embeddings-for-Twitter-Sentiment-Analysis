@@ -43,8 +43,10 @@
 ![屏幕截图 2024-03-27 064554](https://github.com/FPT-ThaiTuan/Using-Word-Embeddings-for-Twitter-Sentiment-Analysis/assets/105273233/675a6ee5-4016-4822-b20e-95735b0071ca)
 
 ### **2.6. Visualize the vector and text above**
-**- Vector data image** 
+**- Vector data image**
+
 **- Points: 9999**
+
 **- Dimension: 64**
 
 ![屏幕截图 2024-03-27 065022](https://github.com/FPT-ThaiTuan/Using-Word-Embeddings-for-Twitter-Sentiment-Analysis/assets/105273233/73e1f19e-808d-47d0-a570-69aa53ff0841)
