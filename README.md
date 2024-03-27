@@ -7,9 +7,7 @@
 ## **2. Deploy project construction**
 ### **2.1. Collect data (Here I use kaggle)**
 **- The link to the dataset is below**
-
 [DATASET](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis?select=twitter_training.csv)
-
 **- Data chart**
 
 ![屏幕截图 2024-03-27 063613](https://github.com/FPT-ThaiTuan/Using-Word-Embeddings-for-Twitter-Sentiment-Analysis/assets/105273233/75ee6fec-e2bd-4a63-a0e4-6aa6c4a60829)
